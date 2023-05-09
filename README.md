@@ -1,13 +1,12 @@
 # What
-- Template use for setup setting you need for create unity package
-- Replace your setting in file package.json
+- Play Asset Delivery Using Addressable for Unity
 
 
 # How To Install Package
 
 Add the lines below to `Packages/manifest.json`
 
-for version x.x.x
+for version 1.0.0
 ```csharp
-"com.pancake.__package_name__": "https://github.com/pancake-llc/packagename.git#x.x.x",
+"com.pancake.play-asset-delivery": "https://github.com/pancake-llc/play-asset-delivery-addressable.git#1.0.0",
 ```
