@@ -1,5 +1,5 @@
 {
-    "name": "Pancake.AddressablesPAD.Editor",
+    "name": "Pancake.PAD.Addressable.Editor",
     "rootNamespace": "",
     "references": [
         "GUID:69448af7b92c7f342b298e06a37122aa",
