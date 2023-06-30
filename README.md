@@ -24,9 +24,9 @@ for version 1.0.0
 
 - Step 3: Create `BuildScriptPlayAssetDelivery`. Go to menu `Create` > `Addressables` > `Custom Build` > `Play Asset Delivery`
 
-<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/npm/yenmoc-assets@1.0.62/img/pad_3.jpg" width="600"  alt=""/></p>
+<p style="text-align: center;"><img src="https://cdn.jsdelivr.net/npm/yenmoc-assets@1.0.63/img/pad_3.jpg" width="600"  alt=""/></p>
 
-- Step 4: Create `AssetPacksContent`. Truly go to menu `Create` > `Addressables` > `Group Tempaltes` > `Blank Group Template` > Rename to AssetPackContent
+- Step 4: Create `AssetPacksContent`. Truly go to menu `Create` > `Addressables` > `Group Tempaltes` > `Blank Group Template` > Rename to `AssetPackContent`
 
 
 - Step 5: Add Schema Content Packing Loading for AssetPackContent
